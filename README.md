@@ -17,5 +17,5 @@ Looking for entry level IT / Help Desk role.
 
 ## Connect
 - Email: sanya.syed23@gmail.com
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/sanya-ahmed-a91001334
 - GitHub: github.com/sanyasyed23-sudo/IT-PROJECTS
